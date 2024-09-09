@@ -1,6 +1,6 @@
 # Atlas Lab HR Analytical Dashboard - Power BI Dashboard
 
-![Atlas Lab HR Analytical Dashboard Preview](https://github.com/trareinaung/HR-Analytical-Dashboard/blob/main/HR%20Analytical.png)
+![](https://github.com/trareinaung/HR-Analytical-Dashboard/blob/main/HR%20Analytical.png)<!-- -->
 
 ## Overview
 
